@@ -1,0 +1,31 @@
+:root{
+  --size: 100%;
+  --blue: #aa5ff;
+  --lb: rgba(0,0,0,0.5);
+}
+.container{
+  width: var(--size);
+  height: var(--size);
+  filter: drop-shadow(0px 0px 7px rgba(1,1,1,.7));
+  right: 100px;
+  left: 100px
+}
+
+.content{
+  border-widht: 0 1px;
+  border-style: solid;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 100px;
+  left: 100px;
+  z-index: -1;
+}
+
+.btn{
+  float: right;
+  position: relative;
+  top: 10px;
+  margin-right: 10px
+}
+

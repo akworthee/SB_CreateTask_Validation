@@ -1,0 +1,8 @@
+{
+  "todo": "#65c6c6",
+  "inprogress": "#C9B23F",
+  "mergepen": "#5476F5",
+  "mergecom": "#8B47A9",
+  "done": "#459544",
+  "blocked": "#A2514A"
+}

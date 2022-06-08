@@ -1,0 +1,34 @@
+{
+  "list":[
+    {
+      "name": "Angular",
+      "ticketId": "PROJ-1",
+      "category": "todo"
+    },
+    {
+      "name": "React",
+      "ticketId": "PROJ-2",
+      "category": "todo"
+    },{
+      "name": "Vue",
+      "ticketId": "PROJ-3",
+      "category": "blocked"
+    },{
+      "name": "ASP",
+      "ticketId": "PROJ-4",
+      "category": "inprogress"
+    },{
+      "name": "C#",
+      "ticketId": "PROJ-5",
+      "category": "mergepen"
+    },{
+      "name": "Java",
+      "ticketId": "PROJ-6",
+      "category": "mergecom"
+    },{
+      "name": "Node",
+      "ticketId": "PROJ-7",
+      "category": "done"
+    }
+  ]
+}

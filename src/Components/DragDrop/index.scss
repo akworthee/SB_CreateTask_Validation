@@ -1,0 +1,39 @@
+.mainJira{
+  display: flex;
+  flex-direction: row;
+}
+header{
+  display: flex;
+  flex-direction: row;
+}
+header > h4{
+  width: 400px;
+  margin: 5px;
+}
+.dnd{
+  list-style: none;
+  width: 400px;
+  height: 300px;
+  margin: 5px;
+  border-style: groove;
+  border-width: 3px;
+  background-color: #c7ced6;
+}
+.dnd article{
+  cursor: move;
+  background-color: rgb(185,188,238);
+  color: black;
+  padding: 10px;
+  transition: all 0.2s;
+}
+.dnd article:hover{
+  color: #003366;
+  cursor: hand;
+}
+.dnd article > h5 {
+  height: 20px;
+  background-color: rgb(24,24,82);
+  color: wheat;
+  margin:0;
+  padding:0;
+}
